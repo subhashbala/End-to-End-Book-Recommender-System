@@ -6,21 +6,22 @@ End-to-end book recommender system that uses collaborative filtering to provide 
 
 CLone the repository
 
-'''bash
+```bash
 https://github.com/subhashbala/End-to-End-Book-Recommender-System.git
+```
 
 ### Step 01- Create a conda environment after opening the repository
 
-'''bash
+```bash
 conda create -n books python=3.7.10 -y
-'''
+```
 
-''' bash
+``` bash
 conda activate books
-'''
+```
 
 
 ### STEP 02- install the requirements
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
