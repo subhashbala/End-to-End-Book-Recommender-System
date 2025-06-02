@@ -4,7 +4,7 @@ End-to-end book recommender system that uses collaborative filtering to provide 
 # How to run? 
 ### STEPS: 
 
-CLone the repository
+Clone the repository
 
 ```bash
 https://github.com/subhashbala/End-to-End-Book-Recommender-System.git
