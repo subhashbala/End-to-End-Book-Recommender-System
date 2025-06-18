@@ -1,3 +1,6 @@
 scikit-learn
 pandas
 numpy
+PyYAML
+streamlit
+-e . # looks for setup.py and installs folder as a local passage
