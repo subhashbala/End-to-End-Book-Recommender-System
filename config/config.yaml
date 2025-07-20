@@ -1,0 +1,12 @@
+# artifacts are what your code will generate
+articacts_config:
+  articacts_dir: artifacts
+
+data_ingestion_config:
+  # this is where the data is present
+  # might have a lil problem here
+  dataset_download_url: https://github.com/subhashbala/datsets/blob/main/ecommerce-books_data.zip
+  dataset_dir: dataset_dir
+  ingested_dir: ingested_data
+  raw_data_dir: raw_data
+
